@@ -1,0 +1,13 @@
+{
+    "name": "lauanguermandi/scraphper",
+    "authors": [
+        {
+            "name": "Lauan Guermandi",
+            "email": "lauanguermandi@gmail.com"
+        }
+    ],
+    "description": "a php scraper to testing links",
+    "require": {
+        "php": ">=7.0"
+    }
+}
