@@ -59,7 +59,6 @@ function getLinks( $body ){
         
         foreach($a as $key => $value){
             $aux = $value->getAttribute("href");
-            echo substr( $aux, 0, 1 ); 
             $arrLinks[] =  substr( $aux, 0, 1 ) != "/" ? $aux : "";
         }
 
